@@ -1,4 +1,4 @@
-# Skills of Ojas Joshi
+# Skills
 
 ## Technical Skills
 
@@ -40,7 +40,6 @@
 
 ---
 
-For more details about my projects and experience, visit [my GitHub profile](https://github.com/OJAS-P-JOSHI).
 
 ![68747470733a2f2f646576656c6f706572732e67697068792e636f6d2f6272616e63682f6d61737465722f7374617469632f6170692d35313264333663303936363236383237313731303861333862626235633537642e676966](https://github.com/OJAS-P-JOSHI/OJAS-P-JOSHI/assets/151435928/9ca710b9-8325-47bf-b331-50a4f38e7d10)
 
